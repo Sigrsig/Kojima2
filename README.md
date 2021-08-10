@@ -1,4 +1,4 @@
-## The Kojima Name Genorator
+## The Kojima Name Generator
 
 A name generator made with React and sass
 
@@ -14,4 +14,4 @@ It may seem impossible to have the naming talent that blesses Kojima's magical m
 It's time to find out what your name would be if you were in a Kojima game
 
 
-[Try the Genorator Here!](https://www.siggagreen.com/kojima)
+[Try the Generator Here!](https://www.siggagreen.com/kojima)
