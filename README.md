@@ -1,6 +1,6 @@
 ## The Kojima Name Generator
 
-A name generator made with React and sass
+A name generator made with React
 
 
 ## Introduction
